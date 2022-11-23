@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Skills
- <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=Eclipse IDEt&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=Eclipse&logoColor=white"/>
