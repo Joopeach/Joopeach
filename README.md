@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Chan%20Joo%20Lee&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hello&fontSize=40&animation=fadeIn&desc=I'm%20Chan%20Joo%20Lee)
 
 - 👋 Hi, I’m @Joopeach
 - 👀 I’m
